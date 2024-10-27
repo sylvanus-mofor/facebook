@@ -2,3 +2,4 @@ users can login with email and password
 users can signup with name, email and password
 users can login with phone number and OTP
 users can add profile pictures
+Users can delete or change their profile pictures
